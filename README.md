@@ -1,5 +1,5 @@
 
-## Available Scripts
+## Login implementation using JSON Server REST API
 
 In the project directory, you can run:
 
